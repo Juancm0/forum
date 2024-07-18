@@ -13,8 +13,8 @@ Este proyecto implementa una API simple de foro utilizando Spring Boot, Spring S
 - MySQL
 - Hibernate (JPA)
 - Lombok
-- Maven/Gradle (Elegir uno según tu sistema de construcción)
-- IntelliJ IDEA (IDE recomendado)
-- Insomnia (para pruebas de API)
+- Maven/Gradle 
+- IntelliJ IDEA 
+
 
 
